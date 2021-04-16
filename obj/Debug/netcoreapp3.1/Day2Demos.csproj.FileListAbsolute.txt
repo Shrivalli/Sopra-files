@@ -1,0 +1,13 @@
+G:\Sopra Steria\Batch II\Day2Demos\bin\Debug\netcoreapp3.1\Day2Demos.exe
+G:\Sopra Steria\Batch II\Day2Demos\bin\Debug\netcoreapp3.1\Day2Demos.deps.json
+G:\Sopra Steria\Batch II\Day2Demos\bin\Debug\netcoreapp3.1\Day2Demos.runtimeconfig.json
+G:\Sopra Steria\Batch II\Day2Demos\bin\Debug\netcoreapp3.1\Day2Demos.runtimeconfig.dev.json
+G:\Sopra Steria\Batch II\Day2Demos\bin\Debug\netcoreapp3.1\Day2Demos.dll
+G:\Sopra Steria\Batch II\Day2Demos\bin\Debug\netcoreapp3.1\Day2Demos.pdb
+G:\Sopra Steria\Batch II\Day2Demos\obj\Debug\netcoreapp3.1\Day2Demos.AssemblyInfoInputs.cache
+G:\Sopra Steria\Batch II\Day2Demos\obj\Debug\netcoreapp3.1\Day2Demos.AssemblyInfo.cs
+G:\Sopra Steria\Batch II\Day2Demos\obj\Debug\netcoreapp3.1\Day2Demos.csproj.CoreCompileInputs.cache
+G:\Sopra Steria\Batch II\Day2Demos\obj\Debug\netcoreapp3.1\Day2Demos.dll
+G:\Sopra Steria\Batch II\Day2Demos\obj\Debug\netcoreapp3.1\Day2Demos.pdb
+G:\Sopra Steria\Batch II\Day2Demos\obj\Debug\netcoreapp3.1\Day2Demos.genruntimeconfig.cache
+G:\Sopra Steria\Batch II\Day2Demos\obj\Debug\netcoreapp3.1\Day2Demos.csprojAssemblyReference.cache
